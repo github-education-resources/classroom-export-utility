@@ -1,6 +1,6 @@
 # Classroom Export Utility
 
-With the transition of GitHub Classroom, teachers can use this script to download their GitHub Classroom data locally using the CLI.
+With the transition of GitHub Classroom, teachers can use this [export-classrooms.sh](https://github.com/github-education-resources/classroom-export-utility/blob/main/export-classrooms.sh) script to download their GitHub Classroom data locally using the CLI.
 
 This Bash script exports GitHub Classroom data locally using the [GitHub Classroom CLI extension](https://github.com/github/gh-classroom).
 
